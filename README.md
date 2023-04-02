@@ -4,7 +4,7 @@ QS World University Rankings include almost 1,500 institutions from around the w
 # LICENCE
 All Rights Reserved
 
-Copyright (c) 04/03/2023 George Matlis
+Copyright (c) 04/03/2023 GEORGE MATLIS
 
 Created by Techcable
 
